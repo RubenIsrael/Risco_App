@@ -1,0 +1,7 @@
+com.danthop.risco
+
+Limpiar cache
+ ./gradlew cleanBuildCache
+  ./gradlew clean
+
+  https://www.codementor.io/@uokesita/react-native-push-notifications-with-firebase-2019-10on0z19t6

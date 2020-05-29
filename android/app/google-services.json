@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072727397525",
+    "firebase_url": "https://risco-f3487.firebaseio.com",
+    "project_id": "risco-f3487",
+    "storage_bucket": "risco-f3487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072727397525:android:12f5d3970ce5df2791b79c",
+        "android_client_info": {
+          "package_name": "com.danthop.risco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072727397525-taj40a34bg85mbdefu893l4df5atckko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danthop.risco",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1072727397525-fadvcfqpthotg3o0dbf3mj16fhnmqv38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApvLx8KmT_6IL7EYZV7F6zIG2sqTVakLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072727397525-fadvcfqpthotg3o0dbf3mj16fhnmqv38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
